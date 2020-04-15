@@ -1,2 +1,2 @@
-# CollaberaAssignments
+# Collabera Assignments
 Collabera Training Demos
